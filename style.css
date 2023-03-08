@@ -1,0 +1,23 @@
+.southAsia {
+    color: rgb(225, 225, 39);
+    background-color: rgb(71, 89, 83);
+    height: 100px;
+    width: 100px;
+    border: 1px solid rgb(232, 137, 137);
+}
+.southAmerica {
+    color: rgb(23, 76, 234);
+    background-color: rgb(231, 171, 106);
+    height: 100px;
+    width:  100px;
+    border: 1px solid rgb(142, 203, 19);
+}
+#one {
+    border: 1px dotted rgb(165, 228, 37);
+}
+h2 {
+    color: rgb(236, 158, 41);
+}
+h1 {
+    color: rgb(165, 56, 56);
+}
